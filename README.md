@@ -1,2 +1,2 @@
 # github-practice--rajarshibagchi-
-git clone https://github.com/your-username/github-practice-[rajarshibagchi].git
+git clone https://github.com/rajarshibagchi2/github-practice-[rajarshibagchi].git
